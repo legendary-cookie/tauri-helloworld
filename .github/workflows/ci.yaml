@@ -29,4 +29,4 @@ jobs:
     - name: upload artifacts
       uses: actions/upload-artifact@v2
       with:
-      path: src-tauri/target/release/bundle
+        path: src-tauri/target/release/bundle
